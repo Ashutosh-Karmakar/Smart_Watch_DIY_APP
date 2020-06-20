@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmartWatch</string>
+    <string name="caller_name">CALLER NAME</string>
+    <string name="device_name">DEVICE NAME</string>
+    <string name="connect">RECONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+</resources>
